@@ -17,6 +17,7 @@ This project demonstrates how to:
 ```
 ├── fish_classification.ipynb     # Model training and evaluation notebook
 ├── Fish_classify.py              # Streamlit app for inference
+├── images/                       # Screenshots
 ├── models/                       # Folder to store trained .h5 model files
 ├── requirements.txt              # Required libraries
 └── README.md                     # You're here!
@@ -88,12 +89,14 @@ model.save('Fish_models/MobileNet_best.h5')  # or any other model
 
 ---
 
-## 🖼️ Example
+## 🖼️ Screenshots
 
-| Upload Image                         | Prediction Output                     |
-|-------------------------------------|---------------------------------------|
-| ![](images/Screenshots_1.jpg)   | 🎯 Predicted: **Red Mullet** (96.32%) |
-| ![](images/Screenshots_2.jpg)   | 🎯 Predicted: **House Mackerel** (94.06%) |
+
+![](images/Screenshot_1.png)
+
+---
+
+![](images/Screenshot_2.png)
 
 ---
 
