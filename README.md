@@ -92,7 +92,8 @@ model.save('Fish_models/MobileNet_best.h5')  # or any other model
 
 | Upload Image                         | Prediction Output                     |
 |-------------------------------------|---------------------------------------|
-| ![](images/sample_red_mullet.jpg)   | 🎯 Predicted: **Red Mullet** (96.32%) |
+| ![](images/Screenshots_1.jpg)   | 🎯 Predicted: **Red Mullet** (96.32%) |
+| ![](images/Screenshots_2.jpg)   | 🎯 Predicted: **House Mackerel** (94.06%) |
 
 ---
 
