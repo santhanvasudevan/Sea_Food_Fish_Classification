@@ -8,7 +8,7 @@ import os
 # Load model
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model('AI ML/Image Classification/model/mobilenet_fish_model_wo_animalfish.h5')
+    return tf.keras.models.load_model('AI ML/Image Classification/model/MobileNet_best.h5.h5')
 
 model = load_model()
 
